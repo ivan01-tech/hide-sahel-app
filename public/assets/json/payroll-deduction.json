@@ -1,17 +1,13 @@
 {
-    "data":[
-        {
-          "Name": "Absent amount",
-          "Amount": "$12"
-        },
-        {
-          "Name": "Advance",
-          "Amount": "$7"
-        },
-        {
-          "Name": "Unpaid leave",
-          "Amount": "$3"
-        }
-      ],
-    "totaldata":3
+  "data": [
+    {
+      "Name": "Absent amount",
+      "Amount": "$12"
+    },
+    {
+      "Name": "Advance",
+      "Amount": "$7"
+    }
+  ],
+  "totaldata": 3
 }
