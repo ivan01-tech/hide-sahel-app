@@ -30,6 +30,7 @@ fs.readdir(directoryPath, (err, files) => {
           if (jsonData.data && Array.isArray(jsonData.data)) {
             // Gardez seulement les trois premiers éléments de `data`
             jsonData.data = jsonData.data.slice(0, 2);
+            console.log("Data : ",data)
           }
 
           // Écrire les données mises à jour dans le même fichier
